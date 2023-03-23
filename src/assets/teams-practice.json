@@ -1,0 +1,90 @@
+{
+    "competitions": [
+      {
+        "teams": [
+          {
+            "name": "AFC Bournemouth",
+            "id": 47
+          },
+          {
+            "name": "Arsenal",
+            "id": 1
+          },
+          {
+            "name": "Aston Villa",
+            "id": 2
+          },
+          {
+            "name": "Brentford",
+            "id": 49
+          },
+          {
+            "name": "Brighton & Hove Albion",
+            "id": 21
+          },
+          {
+            "name": "Chelsea",
+            "id": 7
+          },
+          {
+            "name": "Crystal Palace",
+            "id": 8
+          },
+          {
+            "name": "Everton",
+            "id": 9
+          },
+          {
+            "name": "Fulham",
+            "id": 10
+          },
+          {
+            "name": "Leeds United",
+            "id": 29
+          },
+          {
+            "name": "Leicester City",
+            "id": 30
+          },
+          {
+            "name": "Liverpool",
+            "id": 11
+          },
+          {
+            "name": "Manchester City",
+            "id": 12
+          },
+          {
+            "name": "Manchester United",
+            "id": 13
+          },
+          {
+            "name": "Newcastle United",
+            "id": 15
+          },
+          {
+            "name": "Nottingham Forest",
+            "id": 32
+          },
+          {
+            "name": "Southampton",
+            "id": 18
+          },
+          {
+            "name": "Tottenham Hotspur",
+            "id": 19
+          },
+          {
+            "name": "West Ham United",
+            "id": 42
+          },
+          {
+            "name": "Wolverhampton Wanderers",
+            "id": 44
+          }
+        ],
+        "generic-name": "Premier League",
+        "id": 1,
+        "type": "league",
+        "full-name": "Premier League"
+      } ]}

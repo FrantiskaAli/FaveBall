@@ -1,0 +1,13 @@
+
+#sidenav-summary{
+    max-width:20vw !important;
+    max-height: 80vh !important;
+    overflow-x: wrap;
+    overflow-y:scroll;
+}
+#sidenav-summary-links {
+    width: 20vw !important;
+  
+}
+
+

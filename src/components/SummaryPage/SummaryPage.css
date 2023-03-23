@@ -1,0 +1,19 @@
+.background {
+    background-image: linear-gradient(to bottom, #1f3223, #1e3a23, #1e4223, #1e4a21, #1e521f);
+
+}
+
+#summary-header {
+    color: white !important;
+    
+}
+
+#summary-title {
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 4.5rem;
+    letter-spacing: 1.2rem;
+    text-transform: uppercase;
+}
+

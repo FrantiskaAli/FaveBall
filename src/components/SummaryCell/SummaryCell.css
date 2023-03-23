@@ -1,0 +1,27 @@
+.league-table td {
+    padding: 10px 20px;
+
+}
+
+.league-table-fav {
+    background-color: rgb(53, 155, 75) !important;
+    color: gold !important;
+    font-weight: bold;
+}
+
+.league-table-fav:hover {
+    color: gold !important;
+}
+
+.icon-active {
+color: gold !important;
+}
+
+.icon-inactive {
+color: black !important;
+}
+
+#football-icon {
+    padding-left: 19% !important;
+    padding-right: 7% !important;
+}

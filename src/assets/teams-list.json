@@ -1,0 +1,3004 @@
+{
+  "competitions": [
+    {
+      "teams": [
+        {
+          "name": "AFC Bournemouth",
+          "id": 47
+        },
+        {
+          "name": "Arsenal",
+          "id": 1
+        },
+        {
+          "name": "Aston Villa",
+          "id": 2
+        },
+        {
+          "name": "Brentford",
+          "id": 49
+        },
+        {
+          "name": "Brighton & Hove Albion",
+          "id": 21
+        },
+        {
+          "name": "Chelsea",
+          "id": 7
+        },
+        {
+          "name": "Crystal Palace",
+          "id": 8
+        },
+        {
+          "name": "Everton",
+          "id": 9
+        },
+        {
+          "name": "Fulham",
+          "id": 10
+        },
+        {
+          "name": "Leeds United",
+          "id": 29
+        },
+        {
+          "name": "Leicester City",
+          "id": 30
+        },
+        {
+          "name": "Liverpool",
+          "id": 11
+        },
+        {
+          "name": "Manchester City",
+          "id": 12
+        },
+        {
+          "name": "Manchester United",
+          "id": 13
+        },
+        {
+          "name": "Newcastle United",
+          "id": 15
+        },
+        {
+          "name": "Nottingham Forest",
+          "id": 32
+        },
+        {
+          "name": "Southampton",
+          "id": 18
+        },
+        {
+          "name": "Tottenham Hotspur",
+          "id": 19
+        },
+        {
+          "name": "West Ham United",
+          "id": 42
+        },
+        {
+          "name": "Wolverhampton Wanderers",
+          "id": 44
+        }
+      ],
+      "genericName": "Premier League",
+      "id": 1,
+      "type": "league",
+      "fullName": "Premier League"
+    },
+    {
+      "teams": [
+        {
+          "name": "Birmingham City",
+          "id": 3
+        },
+        {
+          "name": "Blackburn Rovers",
+          "id": 4
+        },
+        {
+          "name": "Blackpool",
+          "id": 46
+        },
+        {
+          "name": "Bristol City",
+          "id": 50
+        },
+        {
+          "name": "Burnley",
+          "id": 22
+        },
+        {
+          "name": "Cardiff City",
+          "id": 23
+        },
+        {
+          "name": "Coventry City",
+          "id": 24
+        },
+        {
+          "name": "Huddersfield Town",
+          "id": 55
+        },
+        {
+          "name": "Hull City",
+          "id": 56
+        },
+        {
+          "name": "Luton Town",
+          "id": 57
+        },
+        {
+          "name": "Middlesbrough",
+          "id": 14
+        },
+        {
+          "name": "Millwall",
+          "id": 31
+        },
+        {
+          "name": "Norwich City",
+          "id": 16
+        },
+        {
+          "name": "Preston North End",
+          "id": 34
+        },
+        {
+          "name": "Queens Park Rangers",
+          "id": 35
+        },
+        {
+          "name": "Reading",
+          "id": 36
+        },
+        {
+          "name": "Rotherham United",
+          "id": 37
+        },
+        {
+          "name": "Sheffield United",
+          "id": 38
+        },
+        {
+          "name": "Stoke City",
+          "id": 39
+        },
+        {
+          "name": "Sunderland",
+          "id": 40
+        },
+        {
+          "name": "Swansea City",
+          "id": 90
+        },
+        {
+          "name": "Watford",
+          "id": 41
+        },
+        {
+          "name": "West Bromwich Albion",
+          "id": 20
+        },
+        {
+          "name": "Wigan Athletic",
+          "id": 43
+        }
+      ],
+      "genericName": "Championship",
+      "id": 2,
+      "type": "league",
+      "fullName": "Sky Bet Championship"
+    },
+    {
+      "teams": [
+        {
+          "name": "Accrington Stanley",
+          "id": 93
+        },
+        {
+          "name": "Barnsley",
+          "id": 45
+        },
+        {
+          "name": "Bolton Wanderers",
+          "id": 5
+        },
+        {
+          "name": "Bristol Rovers",
+          "id": 70
+        },
+        {
+          "name": "Burton Albion",
+          "id": 96
+        },
+        {
+          "name": "Cambridge United",
+          "id": 72
+        },
+        {
+          "name": "Charlton Athletic",
+          "id": 6
+        },
+        {
+          "name": "Cheltenham Town",
+          "id": 73
+        },
+        {
+          "name": "Derby County",
+          "id": 26
+        },
+        {
+          "name": "Exeter City",
+          "id": 101
+        },
+        {
+          "name": "Fleetwood Town",
+          "id": 376
+        },
+        {
+          "name": "Forest Green Rovers",
+          "id": 103
+        },
+        {
+          "name": "Ipswich Town",
+          "id": 28
+        },
+        {
+          "name": "Lincoln City",
+          "id": 79
+        },
+        {
+          "name": "Milton Keynes Dons",
+          "id": 58
+        },
+        {
+          "name": "Morecambe",
+          "id": 108
+        },
+        {
+          "name": "Oxford United",
+          "id": 84
+        },
+        {
+          "name": "Peterborough United",
+          "id": 60
+        },
+        {
+          "name": "Plymouth Argyle",
+          "id": 33
+        },
+        {
+          "name": "Port Vale",
+          "id": 61
+        },
+        {
+          "name": "Portsmouth",
+          "id": 17
+        },
+        {
+          "name": "Sheffield Wednesday",
+          "id": 62
+        },
+        {
+          "name": "Shrewsbury Town",
+          "id": 88
+        },
+        {
+          "name": "Wycombe Wanderers",
+          "id": 91
+        }
+      ],
+      "genericName": "League One",
+      "id": 3,
+      "type": "league",
+      "fullName": "Sky Bet League One"
+    },
+    {
+      "teams": [
+        {
+          "name": "AFC Wimbledon",
+          "id": 247
+        },
+        {
+          "name": "Barrow",
+          "id": 118
+        },
+        {
+          "name": "Bradford City",
+          "id": 48
+        },
+        {
+          "name": "Carlisle United",
+          "id": 98
+        },
+        {
+          "name": "Colchester United",
+          "id": 52
+        },
+        {
+          "name": "Crawley Town",
+          "id": 99
+        },
+        {
+          "name": "Crewe Alexandra",
+          "id": 25
+        },
+        {
+          "name": "Doncaster Rovers",
+          "id": 53
+        },
+        {
+          "name": "Gillingham",
+          "id": 27
+        },
+        {
+          "name": "Grimsby Town",
+          "id": 76
+        },
+        {
+          "name": "Harrogate Town",
+          "id": 122
+        },
+        {
+          "name": "Hartlepool United",
+          "id": 54
+        },
+        {
+          "name": "Leyton Orient",
+          "id": 78
+        },
+        {
+          "name": "Mansfield Town",
+          "id": 81
+        },
+        {
+          "name": "Newport County",
+          "id": 151
+        },
+        {
+          "name": "Northampton Town",
+          "id": 82
+        },
+        {
+          "name": "Rochdale",
+          "id": 85
+        },
+        {
+          "name": "Salford City",
+          "id": 778
+        },
+        {
+          "name": "Stevenage",
+          "id": 111
+        },
+        {
+          "name": "Stockport County",
+          "id": 63
+        },
+        {
+          "name": "Sutton United",
+          "id": 154
+        },
+        {
+          "name": "Swindon Town",
+          "id": 64
+        },
+        {
+          "name": "Tranmere Rovers",
+          "id": 66
+        },
+        {
+          "name": "Walsall",
+          "id": 67
+        }
+      ],
+      "genericName": "League Two",
+      "id": 4,
+      "type": "league",
+      "fullName": "Sky Bet League Two"
+    },
+    {
+      "teams": [
+        {
+          "name": "Aberdeen",
+          "id": 329
+        },
+        {
+          "name": "Celtic",
+          "id": 330
+        },
+        {
+          "name": "Dundee United",
+          "id": 332
+        },
+        {
+          "name": "Heart of Midlothian",
+          "id": 334
+        },
+        {
+          "name": "Hibernian",
+          "id": 335
+        },
+        {
+          "name": "Kilmarnock",
+          "id": 337
+        },
+        {
+          "name": "Livingston",
+          "id": 338
+        },
+        {
+          "name": "Motherwell",
+          "id": 339
+        },
+        {
+          "name": "Rangers",
+          "id": 340
+        },
+        {
+          "name": "Ross County",
+          "id": 348
+        },
+        {
+          "name": "St Johnstone",
+          "id": 349
+        },
+        {
+          "name": "St Mirren",
+          "id": 350
+        }
+      ],
+      "genericName": "Scottish Premiership",
+      "id": 17,
+      "type": "league",
+      "fullName": "Cinch Premiership"
+    },
+    {
+      "teams": [
+        {
+          "name": "Arbroath",
+          "id": 352
+        },
+        {
+          "name": "Ayr United",
+          "id": 353
+        },
+        {
+          "name": "Cove Rangers",
+          "id": 371
+        },
+        {
+          "name": "Dundee",
+          "id": 331
+        },
+        {
+          "name": "Greenock Morton",
+          "id": 358
+        },
+        {
+          "name": "Hamilton Academical",
+          "id": 344
+        },
+        {
+          "name": "Inverness Caledonian Thistle",
+          "id": 336
+        },
+        {
+          "name": "Partick Thistle",
+          "id": 345
+        },
+        {
+          "name": "Queens Park",
+          "id": 369
+        },
+        {
+          "name": "Raith Rovers",
+          "id": 347
+        }
+      ],
+      "genericName": "Scottish Championship",
+      "id": 18,
+      "type": "league",
+      "fullName": "Cinch Championship"
+    },
+    {
+      "teams": [
+        {
+          "name": "Airdrieonians",
+          "id": 341
+        },
+        {
+          "name": "Alloa Athletic",
+          "id": 351
+        },
+        {
+          "name": "Clyde",
+          "id": 342
+        },
+        {
+          "name": "Dunfermline Athletic",
+          "id": 333
+        },
+        {
+          "name": "Edinburgh City",
+          "id": 372
+        },
+        {
+          "name": "Falkirk",
+          "id": 343
+        },
+        {
+          "name": "Kelty Hearts",
+          "id": 1765
+        },
+        {
+          "name": "Montrose",
+          "id": 367
+        },
+        {
+          "name": "Peterhead",
+          "id": 368
+        },
+        {
+          "name": "Queen of the South",
+          "id": 346
+        }
+      ],
+      "genericName": "Scottish League One",
+      "id": 19,
+      "type": "league",
+      "fullName": "Cinch League One"
+    },
+    {
+      "teams": [
+        {
+          "name": "Albion Rovers",
+          "id": 361
+        },
+        {
+          "name": "Annan Athletic",
+          "id": 942
+        },
+        {
+          "name": "Bonnyrigg Rose Athletic",
+          "id": 1263
+        },
+        {
+          "name": "Dumbarton",
+          "id": 356
+        },
+        {
+          "name": "East Fife",
+          "id": 363
+        },
+        {
+          "name": "Elgin City",
+          "id": 365
+        },
+        {
+          "name": "Forfar Athletic",
+          "id": 357
+        },
+        {
+          "name": "Stenhousemuir",
+          "id": 370
+        },
+        {
+          "name": "Stirling Albion",
+          "id": 359
+        },
+        {
+          "name": "Stranraer",
+          "id": 360
+        }
+      ],
+      "genericName": "Scottish League Two",
+      "id": 20,
+      "type": "league",
+      "fullName": "Cinch League Two"
+    },
+    {
+      "teams": [
+        {
+          "name": "Aldershot Town",
+          "id": 94
+        },
+        {
+          "name": "Altrincham",
+          "id": 116
+        },
+        {
+          "name": "Barnet",
+          "id": 95
+        },
+        {
+          "name": "Boreham Wood",
+          "id": 187
+        },
+        {
+          "name": "Bromley",
+          "id": 251
+        },
+        {
+          "name": "Chesterfield",
+          "id": 51
+        },
+        {
+          "name": "Dagenham & Redbridge",
+          "id": 100
+        },
+        {
+          "name": "Dorking Wanderers",
+          "id": 1511
+        },
+        {
+          "name": "Eastleigh",
+          "id": 230
+        },
+        {
+          "name": "FC Halifax Town",
+          "id": 105
+        },
+        {
+          "name": "Gateshead",
+          "id": 292
+        },
+        {
+          "name": "Maidenhead United",
+          "id": 149
+        },
+        {
+          "name": "Maidstone United",
+          "id": 403
+        },
+        {
+          "name": "Notts County",
+          "id": 83
+        },
+        {
+          "name": "Oldham Athletic",
+          "id": 59
+        },
+        {
+          "name": "Scunthorpe United",
+          "id": 87
+        },
+        {
+          "name": "Solihull Moors",
+          "id": 569
+        },
+        {
+          "name": "Southend United",
+          "id": 89
+        },
+        {
+          "name": "Torquay United",
+          "id": 65
+        },
+        {
+          "name": "Wealdstone",
+          "id": 243
+        },
+        {
+          "name": "Woking",
+          "id": 113
+        },
+        {
+          "name": "Wrexham",
+          "id": 68
+        },
+        {
+          "name": "Yeovil Town",
+          "id": 92
+        },
+        {
+          "name": "York City",
+          "id": 114
+        }
+      ],
+      "genericName": "National League",
+      "id": 5,
+      "type": "league",
+      "fullName": "Vanarama National League"
+    },
+    {
+      "teams": [
+        {
+          "name": "AFC Fylde",
+          "id": 944
+        },
+        {
+          "name": "AFC Telford United",
+          "id": 307
+        },
+        {
+          "name": "Alfreton Town",
+          "id": 115
+        },
+        {
+          "name": "Banbury United",
+          "id": 160
+        },
+        {
+          "name": "Blyth Spartans",
+          "id": 287
+        },
+        {
+          "name": "Boston United",
+          "id": 69
+        },
+        {
+          "name": "Brackley Town",
+          "id": 205
+        },
+        {
+          "name": "Bradford (Park Avenue)",
+          "id": 119
+        },
+        {
+          "name": "Buxton",
+          "id": 405
+        },
+        {
+          "name": "Chester",
+          "id": 1004
+        },
+        {
+          "name": "Chorley",
+          "id": 310
+        },
+        {
+          "name": "Curzon Ashton",
+          "id": 423
+        },
+        {
+          "name": "Darlington",
+          "id": 75
+        },
+        {
+          "name": "Farsley Celtic",
+          "id": 290
+        },
+        {
+          "name": "Gloucester City",
+          "id": 167
+        },
+        {
+          "name": "Hereford",
+          "id": 1791
+        },
+        {
+          "name": "Kettering Town",
+          "id": 125
+        },
+        {
+          "name": "Kidderminster Harriers",
+          "id": 77
+        },
+        {
+          "name": "King's Lynn Town",
+          "id": 1168
+        },
+        {
+          "name": "Leamington",
+          "id": 385
+        },
+        {
+          "name": "Peterborough Sports",
+          "id": 1751
+        },
+        {
+          "name": "Scarborough Athletic",
+          "id": 943
+        },
+        {
+          "name": "Southport",
+          "id": 131
+        },
+        {
+          "name": "Spennymoor Town",
+          "id": 792
+        }
+      ],
+      "genericName": "National League North",
+      "id": 6,
+      "type": "league",
+      "fullName": "Vanarama National League North"
+    },
+    {
+      "teams": [
+        {
+          "name": "Bath City",
+          "id": 161
+        },
+        {
+          "name": "Braintree Town",
+          "id": 226
+        },
+        {
+          "name": "Chelmsford City",
+          "id": 227
+        },
+        {
+          "name": "Cheshunt",
+          "id": 228
+        },
+        {
+          "name": "Chippenham Town",
+          "id": 164
+        },
+        {
+          "name": "Concord Rangers",
+          "id": 941
+        },
+        {
+          "name": "Dartford",
+          "id": 189
+        },
+        {
+          "name": "Dover Athletic",
+          "id": 229
+        },
+        {
+          "name": "Dulwich Hamlet",
+          "id": 258
+        },
+        {
+          "name": "Eastbourne Borough",
+          "id": 143
+        },
+        {
+          "name": "Ebbsfleet United",
+          "id": 104
+        },
+        {
+          "name": "Farnborough",
+          "id": 102
+        },
+        {
+          "name": "Hampton & Richmond Borough",
+          "id": 232
+        },
+        {
+          "name": "Havant & Waterlooville",
+          "id": 145
+        },
+        {
+          "name": "Hemel Hempstead Town",
+          "id": 171
+        },
+        {
+          "name": "Hungerford Town",
+          "id": 435
+        },
+        {
+          "name": "Oxford City",
+          "id": 216
+        },
+        {
+          "name": "Slough Town",
+          "id": 240
+        },
+        {
+          "name": "St Albans City",
+          "id": 153
+        },
+        {
+          "name": "Taunton Town",
+          "id": 222
+        },
+        {
+          "name": "Tonbridge Angels",
+          "id": 242
+        },
+        {
+          "name": "Welling United",
+          "id": 156
+        },
+        {
+          "name": "Weymouth",
+          "id": 158
+        },
+        {
+          "name": "Worthing",
+          "id": 245
+        }
+      ],
+      "genericName": "National League South",
+      "id": 7,
+      "type": "league",
+      "fullName": "Vanarama National League South"
+    },
+    {
+      "teams": [
+        {
+          "name": "Ashton United",
+          "id": 117
+        },
+        {
+          "name": "Atherton Collieries",
+          "id": 821
+        },
+        {
+          "name": "Bamber Bridge",
+          "id": 285
+        },
+        {
+          "name": "Belper Town",
+          "id": 308
+        },
+        {
+          "name": "FC United of Manchester",
+          "id": 475
+        },
+        {
+          "name": "Gainsborough Trinity",
+          "id": 121
+        },
+        {
+          "name": "Guiseley",
+          "id": 293
+        },
+        {
+          "name": "Hyde United",
+          "id": 294
+        },
+        {
+          "name": "Lancaster City",
+          "id": 126
+        },
+        {
+          "name": "Liversedge",
+          "id": 859
+        },
+        {
+          "name": "Marine",
+          "id": 297
+        },
+        {
+          "name": "Marske United",
+          "id": 442
+        },
+        {
+          "name": "Matlock Town",
+          "id": 298
+        },
+        {
+          "name": "Morpeth Town",
+          "id": 757
+        },
+        {
+          "name": "Nantwich Town",
+          "id": 567
+        },
+        {
+          "name": "Radcliffe",
+          "id": 301
+        },
+        {
+          "name": "South Shields",
+          "id": 892
+        },
+        {
+          "name": "Stafford Rangers",
+          "id": 132
+        },
+        {
+          "name": "Stalybridge Celtic",
+          "id": 133
+        },
+        {
+          "name": "Warrington Rylands",
+          "id": 2230
+        },
+        {
+          "name": "Warrington Town",
+          "id": 326
+        },
+        {
+          "name": "Whitby Town",
+          "id": 304
+        }
+      ],
+      "genericName": "Northern Premier League - Premier Division",
+      "id": 14,
+      "type": "league",
+      "fullName": "Northern Premier League - Premier Division"
+    },
+    {
+      "teams": [
+        {
+          "name": "Bridlington Town",
+          "id": 288
+        },
+        {
+          "name": "Brighouse Town",
+          "id": 1452
+        },
+        {
+          "name": "Carlton Town",
+          "id": 562
+        },
+        {
+          "name": "Cleethorpes Town",
+          "id": 1505
+        },
+        {
+          "name": "Consett AFC",
+          "id": 841
+        },
+        {
+          "name": "Dunston",
+          "id": 1015
+        },
+        {
+          "name": "Grantham Town",
+          "id": 168
+        },
+        {
+          "name": "Grimsby Borough",
+          "id": 1935
+        },
+        {
+          "name": "Hebburn Town",
+          "id": 730
+        },
+        {
+          "name": "Lincoln United",
+          "id": 296
+        },
+        {
+          "name": "Long Eaton United",
+          "id": 440
+        },
+        {
+          "name": "North Shields",
+          "id": 869
+        },
+        {
+          "name": "Ossett United",
+          "id": 1971
+        },
+        {
+          "name": "Pontefract Collieries",
+          "id": 768
+        },
+        {
+          "name": "Sheffield",
+          "id": 457
+        },
+        {
+          "name": "Shildon",
+          "id": 887
+        },
+        {
+          "name": "Stocksbridge Park Steels",
+          "id": 325
+        },
+        {
+          "name": "Stockton Town",
+          "id": 1943
+        },
+        {
+          "name": "Tadcaster Albion",
+          "id": 904
+        },
+        {
+          "name": "Worksop Town",
+          "id": 136
+        }
+      ],
+      "genericName": "Northern Premier League - East Division",
+      "id": 15,
+      "type": "league",
+      "fullName": "Northern Premier League - East Division"
+    },
+    {
+      "teams": [
+        {
+          "name": "1874 Northwich",
+          "id": 1482
+        },
+        {
+          "name": "Bootle",
+          "id": 832
+        },
+        {
+          "name": "City of Liverpool",
+          "id": 1859
+        },
+        {
+          "name": "Clitheroe",
+          "id": 311
+        },
+        {
+          "name": "Colne",
+          "id": 1596
+        },
+        {
+          "name": "Glossop North End",
+          "id": 431
+        },
+        {
+          "name": "Hanley Town",
+          "id": 1739
+        },
+        {
+          "name": "Kidsgrove Athletic",
+          "id": 317
+        },
+        {
+          "name": "Leek Town",
+          "id": 295
+        },
+        {
+          "name": "Macclesfield",
+          "id": 80
+        },
+        {
+          "name": "Mossley",
+          "id": 318
+        },
+        {
+          "name": "Newcastle Town",
+          "id": 867
+        },
+        {
+          "name": "Prescot Cables",
+          "id": 300
+        },
+        {
+          "name": "Ramsbottom United",
+          "id": 879
+        },
+        {
+          "name": "Runcorn Linnets",
+          "id": 1174
+        },
+        {
+          "name": "Skelmersdale United",
+          "id": 408
+        },
+        {
+          "name": "Trafford",
+          "id": 803
+        },
+        {
+          "name": "Widnes",
+          "id": 1945
+        },
+        {
+          "name": "Witton Albion",
+          "id": 305
+        },
+        {
+          "name": "Workington AFC",
+          "id": 306
+        }
+      ],
+      "genericName": "Northern Premier League - West Division",
+      "id": 16,
+      "type": "league",
+      "fullName": "Northern Premier League - West Division"
+    },
+    {
+      "teams": [
+        {
+          "name": "Bedworth United",
+          "id": 204
+        },
+        {
+          "name": "Boldmere St Michaels",
+          "id": 830
+        },
+        {
+          "name": "Cambridge City",
+          "id": 140
+        },
+        {
+          "name": "Chasetown",
+          "id": 384
+        },
+        {
+          "name": "Coleshill Town",
+          "id": 700
+        },
+        {
+          "name": "Corby Town",
+          "id": 211
+        },
+        {
+          "name": "Daventry Town",
+          "id": 707
+        },
+        {
+          "name": "Dereham Town",
+          "id": 708
+        },
+        {
+          "name": "Gresley Rovers",
+          "id": 314
+        },
+        {
+          "name": "Halesowen Town",
+          "id": 169
+        },
+        {
+          "name": "Harborough Town",
+          "id": 1415
+        },
+        {
+          "name": "Hinckley LRFC",
+          "id": 2588
+        },
+        {
+          "name": "Loughborough Dynamo",
+          "id": 749
+        },
+        {
+          "name": "Shepshed Dynamo",
+          "id": 323
+        },
+        {
+          "name": "Spalding United",
+          "id": 324
+        },
+        {
+          "name": "Sporting Khalsa",
+          "id": 1554
+        },
+        {
+          "name": "St Neots Town",
+          "id": 895
+        },
+        {
+          "name": "Stamford",
+          "id": 178
+        },
+        {
+          "name": "Sutton Coldfield Town",
+          "id": 220
+        },
+        {
+          "name": "Yaxley",
+          "id": 474
+        }
+      ],
+      "genericName": "Northern Premier League - Midlands Division",
+      "id": 114,
+      "type": "league",
+      "fullName": "Northern Premier League - Midlands Division"
+    },
+    {
+      "teams": [
+        {
+          "name": "Aveley",
+          "id": 182
+        },
+        {
+          "name": "Billericay Town",
+          "id": 225
+        },
+        {
+          "name": "Bishop's Stortford",
+          "id": 138
+        },
+        {
+          "name": "Bognor Regis Town",
+          "id": 139
+        },
+        {
+          "name": "Bowers & Pitsea",
+          "id": 833
+        },
+        {
+          "name": "Brightlingsea Regent",
+          "id": 1451
+        },
+        {
+          "name": "Canvey Island",
+          "id": 97
+        },
+        {
+          "name": "Carshalton Athletic",
+          "id": 141
+        },
+        {
+          "name": "Corinthian-Casuals",
+          "id": 253
+        },
+        {
+          "name": "Cray Wanderers",
+          "id": 254
+        },
+        {
+          "name": "Enfield Town",
+          "id": 375
+        },
+        {
+          "name": "Folkestone Invicta",
+          "id": 231
+        },
+        {
+          "name": "Haringey Borough",
+          "id": 729
+        },
+        {
+          "name": "Hastings United",
+          "id": 260
+        },
+        {
+          "name": "Herne Bay",
+          "id": 732
+        },
+        {
+          "name": "Hornchurch",
+          "id": 147
+        },
+        {
+          "name": "Horsham",
+          "id": 261
+        },
+        {
+          "name": "Kingstonian",
+          "id": 236
+        },
+        {
+          "name": "Lewes",
+          "id": 148
+        },
+        {
+          "name": "Margate",
+          "id": 150
+        },
+        {
+          "name": "Potters Bar Town",
+          "id": 379
+        },
+        {
+          "name": "Wingate & Finchley",
+          "id": 201
+        }
+      ],
+      "genericName": "Isthmian League - Premier Division",
+      "id": 11,
+      "type": "league",
+      "fullName": "Isthmian League - Premier Division"
+    },
+    {
+      "teams": [
+        {
+          "name": "AFC Sudbury",
+          "id": 398
+        },
+        {
+          "name": "Basildon United",
+          "id": 1295
+        },
+        {
+          "name": "Brentwood Town",
+          "id": 560
+        },
+        {
+          "name": "Bury Town",
+          "id": 399
+        },
+        {
+          "name": "Coggeshall Town",
+          "id": 1970
+        },
+        {
+          "name": "East Thurrock United",
+          "id": 190
+        },
+        {
+          "name": "Felixstowe & Walton United",
+          "id": 716
+        },
+        {
+          "name": "Gorleston",
+          "id": 1161
+        },
+        {
+          "name": "Grays Athletic",
+          "id": 144
+        },
+        {
+          "name": "Great Wakering Rovers",
+          "id": 193
+        },
+        {
+          "name": "Hashtag United",
+          "id": 2061
+        },
+        {
+          "name": "Heybridge Swifts",
+          "id": 235
+        },
+        {
+          "name": "Hullbridge Sports",
+          "id": 1487
+        },
+        {
+          "name": "Lowestoft Town",
+          "id": 750
+        },
+        {
+          "name": "Maldon & Tiptree",
+          "id": 196
+        },
+        {
+          "name": "New Salamis",
+          "id": 2456
+        },
+        {
+          "name": "Stowmarket Town",
+          "id": 900
+        },
+        {
+          "name": "Tilbury",
+          "id": 198
+        },
+        {
+          "name": "Witham Town",
+          "id": 284
+        },
+        {
+          "name": "Wroxham",
+          "id": 816
+        }
+      ],
+      "genericName": "Isthmian League - North Division",
+      "id": 12,
+      "type": "league",
+      "fullName": "Isthmian League - North Division"
+    },
+    {
+      "teams": [
+        {
+          "name": "Ashford Town (Middx)",
+          "id": 203
+        },
+        {
+          "name": "Basingstoke Town",
+          "id": 137
+        },
+        {
+          "name": "Bedfont Sports",
+          "id": 1426
+        },
+        {
+          "name": "Binfield",
+          "id": 1039
+        },
+        {
+          "name": "Chertsey Town",
+          "id": 273
+        },
+        {
+          "name": "Chipstead",
+          "id": 563
+        },
+        {
+          "name": "Guernsey",
+          "id": 1354
+        },
+        {
+          "name": "Hanworth Villa",
+          "id": 1162
+        },
+        {
+          "name": "Leatherhead",
+          "id": 262
+        },
+        {
+          "name": "Marlow",
+          "id": 215
+        },
+        {
+          "name": "Merstham",
+          "id": 753
+        },
+        {
+          "name": "Northwood",
+          "id": 238
+        },
+        {
+          "name": "South Park",
+          "id": 1052
+        },
+        {
+          "name": "Southall",
+          "id": 1889
+        },
+        {
+          "name": "Sutton Common Rovers",
+          "id": 1759
+        },
+        {
+          "name": "Thatcham Town",
+          "id": 396
+        },
+        {
+          "name": "Tooting & Mitcham United",
+          "id": 266
+        },
+        {
+          "name": "Uxbridge",
+          "id": 199
+        },
+        {
+          "name": "Walton & Hersham",
+          "id": 267
+        },
+        {
+          "name": "Westfield",
+          "id": 810
+        }
+      ],
+      "genericName": "Isthmian League - South Central Division",
+      "id": 13,
+      "type": "league",
+      "fullName": "Isthmian League - South Central Division"
+    },
+    {
+      "teams": [
+        {
+          "name": "Ashford United",
+          "id": 1429
+        },
+        {
+          "name": "Beckenham Town",
+          "id": 1017
+        },
+        {
+          "name": "Burgess Hill Town",
+          "id": 252
+        },
+        {
+          "name": "Chatham Town",
+          "id": 188
+        },
+        {
+          "name": "Chichester City",
+          "id": 1403
+        },
+        {
+          "name": "Corinthian",
+          "id": 1329
+        },
+        {
+          "name": "Cray Valley PM",
+          "id": 1424
+        },
+        {
+          "name": "East Grinstead Town",
+          "id": 850
+        },
+        {
+          "name": "Faversham Town",
+          "id": 963
+        },
+        {
+          "name": "Haywards Heath Town",
+          "id": 1525
+        },
+        {
+          "name": "Hythe Town",
+          "id": 857
+        },
+        {
+          "name": "Lancing",
+          "id": 1537
+        },
+        {
+          "name": "Littlehampton Town",
+          "id": 1301
+        },
+        {
+          "name": "Ramsgate",
+          "id": 380
+        },
+        {
+          "name": "Sevenoaks Town",
+          "id": 784
+        },
+        {
+          "name": "Sheppey United",
+          "id": 1887
+        },
+        {
+          "name": "Sittingbourne",
+          "id": 197
+        },
+        {
+          "name": "Three Bridges",
+          "id": 801
+        },
+        {
+          "name": "VCD Athletic",
+          "id": 466
+        },
+        {
+          "name": "Whitehawk",
+          "id": 468
+        }
+      ],
+      "genericName": "Isthmian League - South East Division",
+      "id": 40,
+      "type": "league",
+      "fullName": "Isthmian League - South East Division"
+    },
+    {
+      "teams": [
+        {
+          "name": "AFC Rushden & Diamonds",
+          "id": 1428
+        },
+        {
+          "name": "Alvechurch",
+          "id": 818
+        },
+        {
+          "name": "Barwell",
+          "id": 674
+        },
+        {
+          "name": "Basford United",
+          "id": 1438
+        },
+        {
+          "name": "Bedford Town",
+          "id": 162
+        },
+        {
+          "name": "Bromsgrove Sporting",
+          "id": 1501
+        },
+        {
+          "name": "Coalville Town",
+          "id": 697
+        },
+        {
+          "name": "Hednesford Town",
+          "id": 170
+        },
+        {
+          "name": "Hitchin Town",
+          "id": 173
+        },
+        {
+          "name": "Ilkeston Town",
+          "id": 315
+        },
+        {
+          "name": "Kings Langley",
+          "id": 1437
+        },
+        {
+          "name": "Leiston",
+          "id": 437
+        },
+        {
+          "name": "Mickleover",
+          "id": 864
+        },
+        {
+          "name": "Needham Market",
+          "id": 444
+        },
+        {
+          "name": "Nuneaton Borough",
+          "id": 128
+        },
+        {
+          "name": "Redditch United",
+          "id": 129
+        },
+        {
+          "name": "Royston Town",
+          "id": 774
+        },
+        {
+          "name": "Rushall Olympic",
+          "id": 382
+        },
+        {
+          "name": "St Ives Town",
+          "id": 460
+        },
+        {
+          "name": "Stourbridge",
+          "id": 389
+        },
+        {
+          "name": "Stratford Town",
+          "id": 461
+        },
+        {
+          "name": "Tamworth",
+          "id": 112
+        }
+      ],
+      "genericName": "Southern League - Premier Central Division",
+      "id": 8,
+      "type": "league",
+      "fullName": "Southern League - Premier Central"
+    },
+    {
+      "teams": [
+        {
+          "name": "Beaconsfield Town",
+          "id": 185
+        },
+        {
+          "name": "Bracknell Town",
+          "id": 206
+        },
+        {
+          "name": "Chesham United",
+          "id": 163
+        },
+        {
+          "name": "Dorchester Town",
+          "id": 142
+        },
+        {
+          "name": "Gosport Borough",
+          "id": 566
+        },
+        {
+          "name": "Hanwell Town",
+          "id": 394
+        },
+        {
+          "name": "Harrow Borough",
+          "id": 233
+        },
+        {
+          "name": "Hartley Wintney",
+          "id": 1163
+        },
+        {
+          "name": "Hayes & Yeading United",
+          "id": 146
+        },
+        {
+          "name": "Hendon",
+          "id": 234
+        },
+        {
+          "name": "Merthyr Town",
+          "id": 1173
+        },
+        {
+          "name": "Metropolitan Police",
+          "id": 263
+        },
+        {
+          "name": "North Leigh",
+          "id": 760
+        },
+        {
+          "name": "Plymouth Parkway",
+          "id": 1441
+        },
+        {
+          "name": "Poole Town",
+          "id": 769
+        },
+        {
+          "name": "Salisbury",
+          "id": 239
+        },
+        {
+          "name": "Swindon Supermarine",
+          "id": 221
+        },
+        {
+          "name": "Tiverton Town",
+          "id": 180
+        },
+        {
+          "name": "Truro City",
+          "id": 465
+        },
+        {
+          "name": "Weston-super-Mare",
+          "id": 157
+        },
+        {
+          "name": "Winchester City",
+          "id": 397
+        },
+        {
+          "name": "Yate Town",
+          "id": 224
+        }
+      ],
+      "genericName": "Southern League - Premier South Division",
+      "id": 39,
+      "type": "league",
+      "fullName": "Southern League - Premier South"
+    },
+    {
+      "teams": [
+        {
+          "name": "AFC Dunstable",
+          "id": 1290
+        },
+        {
+          "name": "Aylesbury United",
+          "id": 159
+        },
+        {
+          "name": "Barton Rovers",
+          "id": 184
+        },
+        {
+          "name": "Berkhamsted",
+          "id": 186
+        },
+        {
+          "name": "Biggleswade",
+          "id": 1953
+        },
+        {
+          "name": "Biggleswade Town",
+          "id": 945
+        },
+        {
+          "name": "Cirencester Town",
+          "id": 165
+        },
+        {
+          "name": "Didcot Town",
+          "id": 393
+        },
+        {
+          "name": "FC Romania",
+          "id": 1517
+        },
+        {
+          "name": "Hadley",
+          "id": 2058
+        },
+        {
+          "name": "Hertford Town",
+          "id": 279
+        },
+        {
+          "name": "Highworth Town",
+          "id": 1046
+        },
+        {
+          "name": "Kempston Rovers",
+          "id": 1048
+        },
+        {
+          "name": "Kidlington",
+          "id": 741
+        },
+        {
+          "name": "Thame United",
+          "id": 223
+        },
+        {
+          "name": "Waltham Abbey",
+          "id": 400
+        },
+        {
+          "name": "Walthamstow",
+          "id": 2021
+        },
+        {
+          "name": "Ware",
+          "id": 282
+        },
+        {
+          "name": "Welwyn Garden City",
+          "id": 808
+        }
+      ],
+      "genericName": "Southern League - Division One Central",
+      "id": 9,
+      "type": "league",
+      "fullName": "Southern League - Central Division"
+    },
+    {
+      "teams": [
+        {
+          "name": "AFC Totton",
+          "id": 409
+        },
+        {
+          "name": "Bashley",
+          "id": 250
+        },
+        {
+          "name": "Bideford",
+          "id": 412
+        },
+        {
+          "name": "Bishops Cleeve",
+          "id": 387
+        },
+        {
+          "name": "Bristol Manor Farm",
+          "id": 835
+        },
+        {
+          "name": "Cinderford Town",
+          "id": 209
+        },
+        {
+          "name": "Evesham United",
+          "id": 213
+        },
+        {
+          "name": "Exmouth Town",
+          "id": 1866
+        },
+        {
+          "name": "Frome Town",
+          "id": 851
+        },
+        {
+          "name": "Hamworthy United",
+          "id": 1431
+        },
+        {
+          "name": "Larkhall Athletic",
+          "id": 1169
+        },
+        {
+          "name": "Lymington Town",
+          "id": 1541
+        },
+        {
+          "name": "Melksham Town",
+          "id": 863
+        },
+        {
+          "name": "Paulton Rovers",
+          "id": 217
+        },
+        {
+          "name": "Sholing",
+          "id": 962
+        },
+        {
+          "name": "Slimbridge",
+          "id": 458
+        },
+        {
+          "name": "Tavistock",
+          "id": 795
+        },
+        {
+          "name": "Westbury United",
+          "id": 912
+        },
+        {
+          "name": "Willand Rovers",
+          "id": 471
+        },
+        {
+          "name": "Wimborne Town",
+          "id": 914
+        }
+      ],
+      "genericName": "Southern League - Division One South",
+      "id": 10,
+      "type": "league",
+      "fullName": "Southern League - South Division"
+    },
+    {
+      "teams": [
+        {
+          "name": "Ajaccio",
+          "id": 2668
+        },
+        {
+          "name": "Angers",
+          "id": 2094
+        },
+        {
+          "name": "Auxerre",
+          "id": 2649
+        },
+        {
+          "name": "Brest",
+          "id": 2108
+        },
+        {
+          "name": "Clermont",
+          "id": 2502
+        },
+        {
+          "name": "Lens",
+          "id": 495
+        },
+        {
+          "name": "Lille",
+          "id": 486
+        },
+        {
+          "name": "Lorient",
+          "id": 2411
+        },
+        {
+          "name": "Lyon",
+          "id": 478
+        },
+        {
+          "name": "Marseille",
+          "id": 921
+        },
+        {
+          "name": "Monaco",
+          "id": 1632
+        },
+        {
+          "name": "Montpellier",
+          "id": 1311
+        },
+        {
+          "name": "Nantes",
+          "id": 2171
+        },
+        {
+          "name": "Nice",
+          "id": 1407
+        },
+        {
+          "name": "Paris St Germain",
+          "id": 497
+        },
+        {
+          "name": "Reims",
+          "id": 2181
+        },
+        {
+          "name": "Rennes",
+          "id": 937
+        },
+        {
+          "name": "Strasbourg",
+          "id": 2194
+        },
+        {
+          "name": "Toulouse",
+          "id": 585
+        },
+        {
+          "name": "Troyes",
+          "id": 2503
+        }
+      ],
+      "genericName": "French Ligue 1",
+      "id": 91,
+      "type": "league",
+      "fullName": "French Ligue 1"
+    },
+    {
+      "teams": [
+        {
+          "name": "1. FC Köln",
+          "id": 1957
+        },
+        {
+          "name": "1. FC Union Berlin",
+          "id": 2199
+        },
+        {
+          "name": "1899 Hoffenheim",
+          "id": 1947
+        },
+        {
+          "name": "Bayer 04 Leverkusen",
+          "id": 487
+        },
+        {
+          "name": "Bayern Munich",
+          "id": 484
+        },
+        {
+          "name": "Borussia Dortmund",
+          "id": 975
+        },
+        {
+          "name": "Borussia Mönchengladbach",
+          "id": 1288
+        },
+        {
+          "name": "Eintracht Frankfurt",
+          "id": 1410
+        },
+        {
+          "name": "FC Augsburg",
+          "id": 1763
+        },
+        {
+          "name": "FC Schalke 04",
+          "id": 922
+        },
+        {
+          "name": "Hertha Berlin",
+          "id": 1963
+        },
+        {
+          "name": "Mainz 05",
+          "id": 1620
+        },
+        {
+          "name": "RB Leipzig",
+          "id": 1964
+        },
+        {
+          "name": "SC Freiburg",
+          "id": 1442
+        },
+        {
+          "name": "VfB Stuttgart",
+          "id": 926
+        },
+        {
+          "name": "VfL Bochum",
+          "id": 2505
+        },
+        {
+          "name": "VfL Wolfsburg",
+          "id": 1634
+        },
+        {
+          "name": "Werder Bremen",
+          "id": 490
+        }
+      ],
+      "genericName": "German Bundesliga",
+      "id": 92,
+      "type": "league",
+      "fullName": "German Bundesliga"
+    },
+    {
+      "teams": [
+        {
+          "name": "AC Milan",
+          "id": 482
+        },
+        {
+          "name": "Atalanta",
+          "id": 1956
+        },
+        {
+          "name": "Bologna",
+          "id": 2106
+        },
+        {
+          "name": "Cremonese",
+          "id": 2672
+        },
+        {
+          "name": "Empoli",
+          "id": 2506
+        },
+        {
+          "name": "Fiorentina",
+          "id": 931
+        },
+        {
+          "name": "Hellas Verona",
+          "id": 2143
+        },
+        {
+          "name": "Inter Milan",
+          "id": 481
+        },
+        {
+          "name": "Juventus",
+          "id": 1011
+        },
+        {
+          "name": "Lazio",
+          "id": 571
+        },
+        {
+          "name": "Lecce",
+          "id": 2154
+        },
+        {
+          "name": "Monza",
+          "id": 2674
+        },
+        {
+          "name": "Napoli",
+          "id": 990
+        },
+        {
+          "name": "Roma",
+          "id": 480
+        },
+        {
+          "name": "Salernitana",
+          "id": 2507
+        },
+        {
+          "name": "Sampdoria",
+          "id": 657
+        },
+        {
+          "name": "Sassuolo",
+          "id": 1807
+        },
+        {
+          "name": "Spezia",
+          "id": 2472
+        },
+        {
+          "name": "Torino",
+          "id": 1617
+        },
+        {
+          "name": "Udinese",
+          "id": 1146
+        }
+      ],
+      "genericName": "Italian Serie A",
+      "id": 93,
+      "type": "league",
+      "fullName": "Italian Serie A"
+    },
+    {
+      "teams": [
+        {
+          "name": "Almería",
+          "id": 2669
+        },
+        {
+          "name": "Athletic Bilbao",
+          "id": 1147
+        },
+        {
+          "name": "Atlético Madrid",
+          "id": 611
+        },
+        {
+          "name": "Barcelona",
+          "id": 477
+        },
+        {
+          "name": "Cádiz",
+          "id": 2415
+        },
+        {
+          "name": "Celta Vigo",
+          "id": 496
+        },
+        {
+          "name": "Elche",
+          "id": 2468
+        },
+        {
+          "name": "Espanyol",
+          "id": 493
+        },
+        {
+          "name": "Getafe",
+          "id": 983
+        },
+        {
+          "name": "Girona",
+          "id": 2673
+        },
+        {
+          "name": "Mallorca",
+          "id": 2162
+        },
+        {
+          "name": "Osasuna",
+          "id": 488
+        },
+        {
+          "name": "Rayo Vallecano",
+          "id": 2509
+        },
+        {
+          "name": "Real Betis",
+          "id": 1404
+        },
+        {
+          "name": "Real Madrid",
+          "id": 485
+        },
+        {
+          "name": "Real Sociedad",
+          "id": 1401
+        },
+        {
+          "name": "Real Valladolid",
+          "id": 2201
+        },
+        {
+          "name": "Sevilla",
+          "id": 499
+        },
+        {
+          "name": "Valencia",
+          "id": 479
+        },
+        {
+          "name": "Villarreal",
+          "id": 939
+        }
+      ],
+      "genericName": "Spanish La Liga",
+      "id": 94,
+      "type": "league",
+      "fullName": "Spanish La Liga"
+    },
+    {
+      "teams": [
+        {
+          "name": "Cercle Brugge",
+          "id": 2117
+        },
+        {
+          "name": "Club Brugge",
+          "id": 976
+        },
+        {
+          "name": "KAA Gent",
+          "id": 1012
+        },
+        {
+          "name": "KAS Eupen",
+          "id": 2130
+        },
+        {
+          "name": "KRC Genk",
+          "id": 982
+        },
+        {
+          "name": "KV Kortrijk",
+          "id": 2151
+        },
+        {
+          "name": "KV Oostende",
+          "id": 1925
+        },
+        {
+          "name": "Mechelen",
+          "id": 2165
+        },
+        {
+          "name": "Oud-Heverlee Leuven",
+          "id": 2418
+        },
+        {
+          "name": "Royal Antwerp",
+          "id": 2097
+        },
+        {
+          "name": "RSC Anderlecht",
+          "id": 586
+        },
+        {
+          "name": "Seraing",
+          "id": 2510
+        },
+        {
+          "name": "Sint-Truidense VV",
+          "id": 2187
+        },
+        {
+          "name": "Sporting de Charleroi",
+          "id": 1729
+        },
+        {
+          "name": "Standard Liège",
+          "id": 659
+        },
+        {
+          "name": "SV Zulte Waregem",
+          "id": 1392
+        },
+        {
+          "name": "Union Saint-Gilloise",
+          "id": 2511
+        },
+        {
+          "name": "Westerlo",
+          "id": 2679
+        }
+      ],
+      "genericName": "Belgian First Division A",
+      "id": 95,
+      "type": "league",
+      "fullName": "Belgian First Division A"
+    },
+    {
+      "teams": [
+        {
+          "name": "Ajax",
+          "id": 575
+        },
+        {
+          "name": "AZ Alkmaar",
+          "id": 491
+        },
+        {
+          "name": "Excelsior Rotterdam",
+          "id": 2729
+        },
+        {
+          "name": "FC Emmen",
+          "id": 2129
+        },
+        {
+          "name": "FC Groningen",
+          "id": 1575
+        },
+        {
+          "name": "FC Twente",
+          "id": 1008
+        },
+        {
+          "name": "FC Utrecht",
+          "id": 980
+        },
+        {
+          "name": "Feyenoord",
+          "id": 981
+        },
+        {
+          "name": "Fortuna Sittard",
+          "id": 2134
+        },
+        {
+          "name": "Go Ahead Eagles",
+          "id": 1675
+        },
+        {
+          "name": "NEC Nijmegen",
+          "id": 2512
+        },
+        {
+          "name": "PSV Eindhoven",
+          "id": 483
+        },
+        {
+          "name": "RKC Waalwijk",
+          "id": 2182
+        },
+        {
+          "name": "SC Cambuur",
+          "id": 2513
+        },
+        {
+          "name": "sc Heerenveen",
+          "id": 1272
+        },
+        {
+          "name": "Sparta Rotterdam",
+          "id": 2191
+        },
+        {
+          "name": "Vitesse",
+          "id": 1250
+        },
+        {
+          "name": "Volendam",
+          "id": 2678
+        }
+      ],
+      "genericName": "Dutch Eredivisie",
+      "id": 96,
+      "type": "league",
+      "fullName": "Dutch Eredivisie"
+    },
+    {
+      "teams": [
+        {
+          "name": "Arouca",
+          "id": 1800
+        },
+        {
+          "name": "Benfica",
+          "id": 492
+        },
+        {
+          "name": "Boavista",
+          "id": 2105
+        },
+        {
+          "name": "Casa Pia",
+          "id": 2670
+        },
+        {
+          "name": "Chaves",
+          "id": 2671
+        },
+        {
+          "name": "Estoril Praia",
+          "id": 1397
+        },
+        {
+          "name": "Famalicão",
+          "id": 2132
+        },
+        {
+          "name": "FC Porto",
+          "id": 476
+        },
+        {
+          "name": "Gil Vicente",
+          "id": 2139
+        },
+        {
+          "name": "Marítimo",
+          "id": 1276
+        },
+        {
+          "name": "Paços de Ferreira",
+          "id": 1402
+        },
+        {
+          "name": "Portimonense",
+          "id": 2178
+        },
+        {
+          "name": "Rio Ave",
+          "id": 1619
+        },
+        {
+          "name": "Santa Clara",
+          "id": 2183
+        },
+        {
+          "name": "Sporting Braga",
+          "id": 489
+        },
+        {
+          "name": "Sporting Lisbon",
+          "id": 996
+        },
+        {
+          "name": "Vitória Guimarães",
+          "id": 1443
+        },
+        {
+          "name": "Vizela",
+          "id": 2514
+        }
+      ],
+      "genericName": "Portuguese Primeira Liga",
+      "id": 97,
+      "type": "league",
+      "fullName": "Portuguese Primeira Liga"
+    },
+    {
+      "teams": [
+        {
+          "name": "Adana Demirspor",
+          "id": 2515
+        },
+        {
+          "name": "Alanyaspor",
+          "id": 2091
+        },
+        {
+          "name": "Ankaragücü",
+          "id": 2095
+        },
+        {
+          "name": "Antalyaspor",
+          "id": 2096
+        },
+        {
+          "name": "Beşiktaş",
+          "id": 591
+        },
+        {
+          "name": "Fatih Karagümrük",
+          "id": 2424
+        },
+        {
+          "name": "Fenerbahçe",
+          "id": 580
+        },
+        {
+          "name": "Galatasaray",
+          "id": 632
+        },
+        {
+          "name": "Gazişehir Gaziantep",
+          "id": 2136
+        },
+        {
+          "name": "Giresunspor",
+          "id": 2517
+        },
+        {
+          "name": "Hatayspor",
+          "id": 2425
+        },
+        {
+          "name": "İstanbul Başakşehir",
+          "id": 1733
+        },
+        {
+          "name": "İstanbulspor",
+          "id": 2680
+        },
+        {
+          "name": "Kasımpaşa SK",
+          "id": 2148
+        },
+        {
+          "name": "Kayserispor",
+          "id": 2149
+        },
+        {
+          "name": "Konyaspor",
+          "id": 1812
+        },
+        {
+          "name": "Sivasspor",
+          "id": 2188
+        },
+        {
+          "name": "Trabzonspor",
+          "id": 1000
+        },
+        {
+          "name": "Ümraniyespor",
+          "id": 2677
+        }
+      ],
+      "genericName": "Turkish Süper Lig",
+      "id": 99,
+      "type": "league",
+      "fullName": "Turkish Süper Lig"
+    },
+    {
+      "teams": [
+        {
+          "name": "Ballymena United",
+          "id": 1825
+        },
+        {
+          "name": "Carrick Rangers",
+          "id": 2498
+        },
+        {
+          "name": "Cliftonville",
+          "id": 1070
+        },
+        {
+          "name": "Coleraine",
+          "id": 1826
+        },
+        {
+          "name": "Crusaders",
+          "id": 1201
+        },
+        {
+          "name": "Dungannon Swifts",
+          "id": 2499
+        },
+        {
+          "name": "Glenavon",
+          "id": 1467
+        },
+        {
+          "name": "Glentoran",
+          "id": 1099
+        },
+        {
+          "name": "Larne",
+          "id": 2500
+        },
+        {
+          "name": "Linfield",
+          "id": 1128
+        },
+        {
+          "name": "Newry City",
+          "id": 2675
+        },
+        {
+          "name": "Portadown",
+          "id": 1237
+        }
+      ],
+      "genericName": "Northern Ireland Premiership",
+      "id": 113,
+      "type": "league",
+      "fullName": "Northern Ireland Premiership"
+    },
+    {
+      "teams": [
+        {
+          "name": "Aberystwyth Town",
+          "id": 1453
+        },
+        {
+          "name": "Airbus UK Broughton",
+          "id": 1358
+        },
+        {
+          "name": "Bala Town",
+          "id": 1355
+        },
+        {
+          "name": "Caernarfon Town",
+          "id": 1923
+        },
+        {
+          "name": "Cardiff Metropolitan University",
+          "id": 2114
+        },
+        {
+          "name": "Connah's Quay Nomads",
+          "id": 1863
+        },
+        {
+          "name": "Flint Town United",
+          "id": 2426
+        },
+        {
+          "name": "Haverfordwest County",
+          "id": 2427
+        },
+        {
+          "name": "Newtown",
+          "id": 1676
+        },
+        {
+          "name": "Penybont",
+          "id": 2211
+        },
+        {
+          "name": "Pontypridd United",
+          "id": 2676
+        },
+        {
+          "name": "The New Saints",
+          "id": 999
+        }
+      ],
+      "genericName": "Welsh Premier League",
+      "id": 101,
+      "type": "league",
+      "fullName": "Welsh Premier League"
+    },
+    {
+      "teams": [
+        {
+          "name": "Arsenal Women",
+          "id": 2099
+        },
+        {
+          "name": "Aston Villa Women",
+          "id": 2100
+        },
+        {
+          "name": "Brighton & Hove Albion Women",
+          "id": 2109
+        },
+        {
+          "name": "Chelsea Women",
+          "id": 2119
+        },
+        {
+          "name": "Everton Women",
+          "id": 2131
+        },
+        {
+          "name": "Leicester City Women",
+          "id": 2156
+        },
+        {
+          "name": "Liverpool Women",
+          "id": 2158
+        },
+        {
+          "name": "Manchester City Women",
+          "id": 2163
+        },
+        {
+          "name": "Manchester United Women",
+          "id": 2164
+        },
+        {
+          "name": "Reading Women",
+          "id": 2180
+        },
+        {
+          "name": "Tottenham Hotspur Women",
+          "id": 2198
+        },
+        {
+          "name": "West Ham United Women",
+          "id": 2207
+        }
+      ],
+      "genericName": "Women's Super League",
+      "id": 102,
+      "type": "league",
+      "fullName": "FA Women's Super League"
+    },
+    {
+      "teams": [
+        {
+          "name": "Birmingham City Women",
+          "id": 2103
+        },
+        {
+          "name": "Blackburn Rovers Women",
+          "id": 2104
+        },
+        {
+          "name": "Bristol City Women",
+          "id": 2110
+        },
+        {
+          "name": "Charlton Athletic Women",
+          "id": 2118
+        },
+        {
+          "name": "Coventry United Women",
+          "id": 2121
+        },
+        {
+          "name": "Crystal Palace Women",
+          "id": 2123
+        },
+        {
+          "name": "Durham Women",
+          "id": 2127
+        },
+        {
+          "name": "Lewes Women",
+          "id": 2157
+        },
+        {
+          "name": "London City Lionesses",
+          "id": 2160
+        },
+        {
+          "name": "Sheffield United Women",
+          "id": 2185
+        },
+        {
+          "name": "Southampton Women",
+          "id": 2273
+        },
+        {
+          "name": "Sunderland Women",
+          "id": 2195
+        }
+      ],
+      "genericName": "Women's Championship",
+      "id": 103,
+      "type": "league",
+      "fullName": "FA Women's Championship"
+    },
+    {
+      "teams": [
+        {
+          "name": "AFC Fylde Women",
+          "id": 2135
+        },
+        {
+          "name": "Boldmere St Michaels Women",
+          "id": 2477
+        },
+        {
+          "name": "Brighouse Town Women",
+          "id": 2262
+        },
+        {
+          "name": "Burnley Women",
+          "id": 2111
+        },
+        {
+          "name": "Derby County Women",
+          "id": 2125
+        },
+        {
+          "name": "Huddersfield Town Women",
+          "id": 2146
+        },
+        {
+          "name": "Liverpool Feds WFC",
+          "id": 2280
+        },
+        {
+          "name": "Loughborough Lightning",
+          "id": 2161
+        },
+        {
+          "name": "Nottingham Forest Women",
+          "id": 2173
+        },
+        {
+          "name": "Stoke City Women",
+          "id": 2193
+        },
+        {
+          "name": "West Bromwich Albion Women",
+          "id": 2206
+        },
+        {
+          "name": "Wolverhampton Wanderers Women",
+          "id": 2276
+        }
+      ],
+      "genericName": "Women's National League North",
+      "id": 104,
+      "type": "league",
+      "fullName": "FA Women's National League North"
+    },
+    {
+      "teams": [
+        {
+          "name": "Billericay Town Women",
+          "id": 2261
+        },
+        {
+          "name": "Bridgwater United Women",
+          "id": 2521
+        },
+        {
+          "name": "Cheltenham Town Ladies",
+          "id": 2279
+        },
+        {
+          "name": "Crawley Wasps",
+          "id": 2122
+        },
+        {
+          "name": "Gillingham Women",
+          "id": 2140
+        },
+        {
+          "name": "Ipswich Town Women",
+          "id": 2268
+        },
+        {
+          "name": "London Bees",
+          "id": 2159
+        },
+        {
+          "name": "Milton Keynes Dons Women",
+          "id": 2168
+        },
+        {
+          "name": "Oxford United Women",
+          "id": 2175
+        },
+        {
+          "name": "Plymouth Argyle Women",
+          "id": 2177
+        },
+        {
+          "name": "Portsmouth Women",
+          "id": 2179
+        },
+        {
+          "name": "Watford Women",
+          "id": 2205
+        }
+      ],
+      "genericName": "Women's National League South",
+      "id": 105,
+      "type": "league",
+      "fullName": "FA Women's National League South"
+    }
+  ]
+}
