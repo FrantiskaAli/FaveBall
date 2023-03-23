@@ -114,7 +114,7 @@ function SavedTeamsPage() {
             // params: {q: 'robert lewandowski portrait'},
             params: { q: `${goalscorerData.data.goalscorers.players[0]["first-name"]} ${goalscorerData.data.goalscorers.players[0]["last-name"]} portrait` },
             headers: {
-              'X-RapidAPI-Key': 'f09425a46emsh01c4f5ed39e351cp1e53f3jsn2869b4c15bef',
+              'X-RapidAPI-Key': 'fc5e9482cfmsh42a35e3aad603fap1240a9jsn7a261f1f8a32',
               'X-RapidAPI-Host': 'joj-image-search.p.rapidapi.com'
             }
           };
