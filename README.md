@@ -30,9 +30,11 @@ If you would like to add or improve our website, simply download our repository 
 ## Future development
 There are many features we thought of ,but were unable to put in place due to short time frame of our project, these are for example saving multiples of teams through league table to then render on comparison page. Create graphs when comparing the two teams, so user can clearly see how the teams are doing without reading all the information one by one.
 ## Authors
-[Ion Borziac](https://github.com/ionb23)
-- worked on comaprison page ,that requests multiple apis, also using async and await when running axios requests through forLoop.
-[Ellijah Wilsher](https://github.com/Yusen22)
-- worked on summary page, retrieving all, styling navbar and the footer.
-[Frantiska Rechkova](https://github.com/FrantiskaAli)
+Ion Borziac [GitHub profile](https://github.com/ionb23/)
+- Worked on comaprison page thatrequests multiple apis using async and await when running axios requests through for loop.
+
+Ellijah Wilsher [GitHub profile](https://github.com/Yusen22/)
+- Worked on summary page, retrieving all, styling navbar and the footer.
+
+Frantiska Rechkova [GitHub profile](https://github.com/FrantiskaAli/)
 - Created welcome and home page, wrote README
