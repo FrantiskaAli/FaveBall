@@ -74,7 +74,7 @@ function SavedTeamsPage() {
           url: 'https://football-web-pages1.p.rapidapi.com/league-progress.json',
           params: { team: findTeamIDByName(team) },
           headers: {
-            'X-RapidAPI-Key': '536ff355c8mshd9ba3e88969d743p1bde80jsn7f1737cb1dca',
+            'X-RapidAPI-Key': 'f09425a46emsh01c4f5ed39e351cp1e53f3jsn2869b4c15bef',
             'X-RapidAPI-Host': 'football-web-pages1.p.rapidapi.com'
           }
         };
@@ -84,7 +84,7 @@ function SavedTeamsPage() {
           url: 'https://football-web-pages1.p.rapidapi.com/records.json',
           params: { team: findTeamIDByName(team) },
           headers: {
-            'X-RapidAPI-Key': '536ff355c8mshd9ba3e88969d743p1bde80jsn7f1737cb1dca',
+            'X-RapidAPI-Key': '9544be795fmsh8c85152f5af63efp1e9152jsna5f2ff665f28',
             'X-RapidAPI-Host': 'football-web-pages1.p.rapidapi.com'
           }
         };
@@ -94,7 +94,7 @@ function SavedTeamsPage() {
           url: 'https://football-web-pages1.p.rapidapi.com/goalscorers.json',
           params: { team: findTeamIDByName(team) },
           headers: {
-            'X-RapidAPI-Key': '536ff355c8mshd9ba3e88969d743p1bde80jsn7f1737cb1dca',
+            'X-RapidAPI-Key': 'fc5e9482cfmsh42a35e3aad603fap1240a9jsn7a261f1f8a32',
             'X-RapidAPI-Host': 'football-web-pages1.p.rapidapi.com'
           }
         };
